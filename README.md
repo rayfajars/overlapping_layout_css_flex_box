@@ -1,24 +1,2 @@
-# overlapping_layout_ccs_flex_box
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![12](https://user-images.githubusercontent.com/58242304/107876730-4f861a00-6efa-11eb-98f3-210ef95e793e.JPG)
+![13](https://user-images.githubusercontent.com/58242304/107876731-50b74700-6efa-11eb-8164-4659e4fee54f.JPG)
